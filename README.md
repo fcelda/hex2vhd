@@ -8,6 +8,7 @@ Usage
 
     ./hex2vhd.py -i input.hex -o output.vhd -t template.vhd
 
+The template file is a part of the original assembler and can be downloaded on http://www.xilinx.com/picoblaze/.
 
 What can it be used for
 =======================
