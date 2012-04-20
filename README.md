@@ -22,7 +22,7 @@ PicoBlaze compiler alternatives
 
 * [pacoblaze](http://bleyer.org/pacoblaze) -- Java
 * [picoasm](http://www.xs4all.nl/~marksix/picoasm.html) -- C++
-* [pico](http://http://www.stud.fit.vutbr.cz/~xvikto03/gitweb/kcpsm3.git) -- C
+* [pico](http://www.stud.fit.vutbr.cz/~xvikto03/gitweb/kcpsm3.git) -- C
 
 License
 =======
